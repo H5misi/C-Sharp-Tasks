@@ -44,13 +44,8 @@ namespace ConsoleApp1
                                 arr[k, h] = max;
                             }
                         }
-                        
                     }
-                    
-                    
-                    
                 }
-                
             }
 
 
