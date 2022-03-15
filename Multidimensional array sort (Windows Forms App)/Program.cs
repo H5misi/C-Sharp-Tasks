@@ -32,7 +32,7 @@ namespace ConsoleApp1
                         for (int h = 0; h < arr.GetLength(1); h++)
                         {
                             /* 
-                               sorting condition 
+                               sorting condition:
                                if sorting Ascending ↑ --> (<)
                                if sorting Descending ↓ --> (>)
                             */
